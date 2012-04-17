@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+	
+	<!-- tabela produtos -->
+	<br.com.kohen.search.entity.ProductSearch
+		id="15"
+		name="Produto 1" 
+        description="descrição do produto"
+        price="52.00"/>
+	
+	<br.com.kohen.search.entity.ProductSearch
+		id="20"
+		name="Sonho do Vento " 
+        description="Um pequeno sonho do vendo"
+        price="230.60"/>
+        
+        
+     <br.com.kohen.search.entity.ProductSearch
+		id="21"
+		name="A historia do inocente " 
+        description="O menino que conta uma historia de inocencia."
+        price="12.60"/>
+        
+     <br.com.kohen.search.entity.ProductSearch
+		id="22"
+		name="A libelula e o dragao " 
+        description="A historia de amor impossivel"
+        price="30.60"/>
+        
+      <br.com.kohen.search.entity.ProductSearch
+		id="23"
+		name="Show Boys 2" 
+        description="Meninos que sao meninas"
+        price="400.60"/> 
+        
+      <br.com.kohen.search.entity.ProductSearch
+		id="24"
+		name="Grupo 1" 
+        description="Grupo 1"
+        price="420.60"/> 
+        
+      <br.com.kohen.search.entity.ProductSearch
+		id="25"
+		name="Grupo 1" 
+	    description="Grupo 1"
+	    price="300.60"/> 
+        
+      <br.com.kohen.search.entity.ProductSearch
+		id="26"
+		name="Grupo 1" 
+	    description="Grupo 1"
+	    price="140.60"/> 
+        
+      <br.com.kohen.search.entity.ProductSearch
+		id="27"
+		name="Grupo 2" 
+	    description="Grupo 2"
+	    price="20.60"/> 
+        
+      <br.com.kohen.search.entity.ProductSearch
+		id="28"
+		name="Grupo 2" 
+	    description="Grupo 2"
+	    price="4.60"/> 
+	        
+	  <br.com.kohen.search.entity.ProductSearch
+		id="29"
+		name="Avião" 
+	    description="Grupo 2"
+	    price="30.60"/>
+	           
+	  <br.com.kohen.search.entity.ProductSearch
+		id="30"
+		name="arapiraca" 
+	    description="Grupo 2"
+	    price="7.60"/>      
+        
+      <br.com.kohen.search.entity.ProductSearch
+		id="31"
+		name="arapitana" 
+	    description="Grupo 2"
+	    price="9.60"/>
+	  
+	  <br.com.kohen.search.entity.ProductSearch
+		id="32"
+		name="arapitongo" 
+	    description="Grupo 2"
+	    price="233.60"/>           
+	
+</dataset>
